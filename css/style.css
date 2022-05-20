@@ -74,7 +74,7 @@ a.nav-link:focus{
     background-image: url("../imgs/6.png");
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 70px;
+    padding-top: 110px;
 }
 .taste img,
 .taste .img{
@@ -128,7 +128,7 @@ a.nav-link:focus{
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
-    margin-top: -600px;
+    margin-top: -716px;
 }
 .bestDish h2{
     color: var(--main-color);
